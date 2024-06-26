@@ -14,6 +14,6 @@ Languages used: HTML, CSS, JavaScript
 ## File Structure
 
 - `index.html`: The main HTML file for the webpage.
-- `styles/`: Directory containing CSS stylesheets.
-- `scripts/`: Directory containing JavaScript files.
-- `img/`: Directory containing images and other assets used in the webpage.
+- `style/`: Directory containing CSS stylesheets.
+- `script/`: Directory containing JavaScript files.
+- `img/`: Directory containing images used in the webpage.
